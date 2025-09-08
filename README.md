@@ -19,14 +19,16 @@ The Cycler consists of Discharger and Charger
 
 <img width="1033" height="681" alt="image" src="https://github.com/user-attachments/assets/42472064-32d2-4fda-86c4-7484e196cf13" />
 
+\n
 [The degradation result according to temperature from Matlab Code]
 
 
 <img width="913" height="471" alt="image" src="https://github.com/user-attachments/assets/b2e18b37-5318-4826-ae86-31658d997995" />
-
+\n
 [result of SOC according to charge and discharge]
 
 <img width="921" height="465" alt="image" src="https://github.com/user-attachments/assets/9d1b474d-8cd3-4e9d-a9e8-15b703c2f56e" />
+\n
 [result of SoH according to degardation]
 In past, I solved this problem using 3-RC circuit, But I doesn't have this file.... It's my fault...
 Instead, I upload former file while consists of 2-RC circuit.
