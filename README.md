@@ -8,6 +8,8 @@ At here, you can see the MATLAB code which used to calculated Resistance and Cap
 
 <img width="1186" height="388" alt="oveall circuit" src="https://github.com/user-attachments/assets/9396ca84-470a-4dbc-bafb-c69d9116acf3" />
 
+### [overall equivalent circuit]
+
 The below image is overall Equivalent circuit with 2-RC, SoH block and Cycler etc.
 
 The 2-RC Equivalent circuit represents the NCM cathode properties of cylindrical cell including resistance(ohmic, SEI, charge transfer) and capacitance(C1, C2)
