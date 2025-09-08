@@ -17,6 +17,12 @@ The SoH block consists of SoC, Temperature, R0 accroding to cycle.
 The Cycler consists of Discharger and Charger 
 
 
+<img width="689" height="460" alt="image" src="https://github.com/user-attachments/assets/e52a0b10-9125-4f75-b094-a87ce3b179c7" />
+
+
+The OCV data from university of Maryland CALCE
+
+
 <img width="1033" height="681" alt="image" src="https://github.com/user-attachments/assets/42472064-32d2-4fda-86c4-7484e196cf13" />
 
 
