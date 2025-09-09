@@ -44,7 +44,9 @@ The Cycler consists of Discharger and Charger using Realy block
 
 
 ### [result of SoH according to degardation]
-In past, I solved this problem using 3-RC circuit, But I doesn't have this file.... It's my fault...
-Instead, I upload former file while consists of 2-RC circuit. 
+In the system, We encounted some problems... the Soh block doesn't work proper...
+Those reason : The SoH block need to R3 parameter. 
+We tried to get R3 from OCV data, But we can't solve this within the deadline
+If we have some enough time, we will try to solve this
 
 
